@@ -5,7 +5,7 @@
 * 
 *  Name: Davender Singh Student ID: 125700211 Date: 06-06-2022
 *
-*  Online (Heroku) URL: ________________https://safe-spire-13493.herokuapp.com/________________________________________
+*  Online (Heroku) URL: https://safe-spire-13493.herokuapp.com/
 *
 *  GitHub Repository URL: __________https://github.com/davender-singh1/web322---app____________________________________________
 *
@@ -20,9 +20,9 @@ const streamifier = require('streamifier')
 var blogservice = require(__dirname + '/blog-service.js');
 
 cloudinary.config({
-    cloud_name: 'apsingh55',
-    api_key: '573846446734159',
-    api_secret: '3e0YogP911xAqG84b3_ZEVWU9eU',
+    cloud_name: 'davender-singh1',
+    api_key: '947759561438346',
+    api_secret: 'd9wJh0bQG-feg449Dulivpjlo7g',
     secure: true
 });
 
